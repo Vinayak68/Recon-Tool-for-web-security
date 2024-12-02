@@ -4,16 +4,27 @@ An automated Bash script designed for red teaming. This tool performs reconnaiss
 
 📜 Features
 WHOIS Lookup: Fetch domain registration and ownership details.
+
 DNS Enumeration: Retrieve DNS records for the target domain.
+
 Subdomain Discovery: Identify subdomains using multiple tools:
+
 Sublist3r
+
 Subdomainer
+
 Subfinder
+
 Assetfinder
+
 Amass
+
 Port Scanning: Detect open ports using nmap.
+
 Output Management: Saves organized results for easy review.
+
 Combined Subdomains: Consolidates results from all tools into a single file.
+
 Interactive Help: Displays all available options and commands.
 🎯 Usage
 1. Prerequisites
