@@ -26,10 +26,15 @@ Output Management: Saves organized results for easy review.
 Combined Subdomains: Consolidates results from all tools into a single file.
 
 Interactive Help: Displays all available options and commands.
+
 🎯 Usage
+
 1. Prerequisites
+   
 Ensure the following tools are installed:
 
 Sublist3r:
+
 pip install sublist3r
+
 ⚠️ Disclaimer This script is intended for educational and ethical hacking purposes only. Use it responsibly and only on domains you own or have explicit permission to test.
