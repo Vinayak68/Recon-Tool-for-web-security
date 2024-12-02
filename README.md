@@ -33,8 +33,6 @@ Interactive Help: Displays all available options and commands.
    
 Ensure the following tools are installed:
 
-Sublist3r:
-
-pip install sublist3r
+Sublist3r:pip install sublist3r
 
 ⚠️ Disclaimer This script is intended for educational and ethical hacking purposes only. Use it responsibly and only on domains you own or have explicit permission to test.
